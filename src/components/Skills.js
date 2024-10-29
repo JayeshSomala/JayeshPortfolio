@@ -18,6 +18,7 @@ export const Skills = () => {
     { name: "Python", percentage: 70, color: "linear-gradient(90.21deg, #9b0fa8 -5.91%, rgb(0 22 201 / 50%) 111.58%)" },
     { name: "AI/ML", percentage: 70, color: "linear-gradient(90.21deg, #9b0fa8 -5.91%, rgb(0 22 201 / 50%) 111.58%)" },
     { name: "Linux", percentage: 85, color: "linear-gradient(90.21deg, #9b0fa8 -5.91%, rgb(0 22 201 / 50%) 111.58%)" },
+    { name: "Kafka", percentage: 80, color: "linear-gradient(90.21deg, #9b0fa8 -5.91%, rgb(0 22 201 / 50%) 111.58%)" },
   ];
 
 
