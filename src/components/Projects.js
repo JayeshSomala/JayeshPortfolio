@@ -3,10 +3,11 @@ import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/image1.png";
 import projImg2 from "../assets/img/image5.png";
 import projImg3 from "../assets/img/image2.png";
-import projImg4 from "../assets/img/image.png";
+import projImg4 from "../assets/img/image8.png";
 import projImg5 from "../assets/img/image_pranjal_4.PNG";
 import projImg7 from "../assets/img/image_pranjal_7.PNG";
 import colorSharp2 from "../assets/img/color-sharp2.png";
+import projImg8 from "../assets/img/image.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -59,11 +60,11 @@ export const Projects = () => {
 
   const projects3 = [
     {
-      title: "Ecommerce Site",
+      title: "Portfolio Site",
       description: "Collaborative:Website Design & Development",
-      imgUrl: projImg5,
-      link : "https://gitlab.com/jp2720728/React-based-complete-application",
-      codelink : "https://gitlab.com/jp2720728/React-based-complete-application"
+      imgUrl: projImg8,
+      link : "https://jayeshsomalaportfolio.netlify.app/",
+      codelink : "https://github.com/JayeshSomala/JayeshPortfolio"
     },
   ];
 
